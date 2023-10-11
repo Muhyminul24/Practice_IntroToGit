@@ -1,7 +1,9 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-
+int subtract(int x,int y){
+    
+}
 
 int main()
 {
