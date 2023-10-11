@@ -1,7 +1,9 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-
+int sum(int x,int y){
+    
+}
 
 int main()
 {
@@ -10,6 +12,7 @@ int main()
     cin>>a>>b;
 
     cout<<"The values that you have given input are: "<<a<<"     "<<b<<endl;
+    
 
     return 0;
 }
